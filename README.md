@@ -12,7 +12,7 @@
 
  [네이버](http://naver.com/)
 
-![alt](url)
+![alt](http://placehold.it/300x300)
 
 ```js
 var a = 10;
